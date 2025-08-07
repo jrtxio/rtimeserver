@@ -5,7 +5,7 @@
 ;; ============================== 主窗口 ===============================
 ;; =====================================================================
 (define frame (new frame%
-                   [label "RTimeServer - Time Server"]
+                   [label "rtimeserver - PTP Time Server"]
                    [width 800]
                    [height 600]
                    [style '(no-resize-border)]))
